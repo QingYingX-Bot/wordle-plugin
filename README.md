@@ -1,7 +1,7 @@
 # <img width="25px" src="resources/wordle.png"> Wordle 游戏插件 
 
 > **版本：** fork-1.0.12  
-> **更新日期：** 2025-12-05
+> **更新日期：** 2026-01-06
 
 基于原Wordle网页版的云崽Bot改版，原网页参考 https://wordle.org
 
@@ -21,7 +21,7 @@
 
 ### 1. 下载插件
 
-#### <img width="15px" src="https://github.com/favicon.ico"> Github源
+#### Github源
 
 ```console
 git clone --depth=1 https://github.com/QingYingX-Bot/wordle-plugin.git ./plugins/wordle-plugin
