@@ -21,10 +21,10 @@
 
 ### 1. 下载插件
 
-#### <img width="15px" src="https://gitee.com/favicon.ico"> Gitee源（国内用户推荐）
+#### <img width="15px" src="https://github.com/favicon.ico"> Github源
 
 ```console
-git clone --depth=1 https://gitee.com/qingyingxbot/wordle-plugin.git ./plugins/wordle-plugin
+git clone --depth=1 https://github.com/QingYingX-Bot/wordle-plugin.git ./plugins/wordle-plugin
 ```
 
 ### 2. 安装依赖（By 千奈千祁）
